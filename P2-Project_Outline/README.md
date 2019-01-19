@@ -7,11 +7,31 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A quick over view of what I would like to do with my applicaiton is:
+
+Users login to their account with their email 
+Users can create their own posts, and submit them to the database, upload images, all to be retiained with their profile. 
+
+This application will also show scheduling availbility. 
+
+
 ### Features
-Include Features here
+User Login- Users will be able to log into their personal account with their email. There will also be steps in place to make sure their can not be 2 accounts with the same email address. Once a user has logged in, it will take them to their main profile, listing any previous posts from them. 
+
+Search- Users will be able to search for other users based on email, or name. Can also search for posts based on text. 
+
+Users can link their profile to their social media profiles, via a link on their profile page. Looking into image uploading options 
+
+Scheduling availability - looking into options to be able to provide a view of someone's availbility for that week. Want to be able to "book" someone for a hang out(appointment)! 
+
 ### Technologies
-Include Technologies here
+Java
+Javascript (visual) 
+Flask
+Springboot 
+MySQL
+SqlAlchemy
+APIs
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to learn to use the APIs for some social media connections, and having the ability to add sometihng to their post, like a youtube link or video. I will need to review on best practices for the searching based on the user's email or name. I also want to look into image uploading to see if I want to add that into this as well. I would like ot incorprorate a schedule me now option, so that someone could book an appointment with an user. 
