@@ -10,6 +10,9 @@ https://github.com/eluttman/liftoff-assignments/blob/master/Register%20for%20new
 https://github.com/eluttman/liftoff-assignments/blob/master/User%20Profile%20Page.png - User Profile Landing Page Wireframe
 https://github.com/eluttman/liftoff-assignments/blob/master/login%20page.png - Login Page Wireframe
 
+https://github.com/eluttman/liftoff-assignments/projects/1 - Github Capstone Project 
+https://github.com/eluttman/capstone.git - Link to new repository for capstone
+
 
 
 ## Submission Instructions
