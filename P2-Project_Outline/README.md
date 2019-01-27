@@ -4,6 +4,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
 
+https://github.com/eluttman/liftoff-assignments/blob/master/Flow%20Diagram.png - Flow Diagram of Application
+https://github.com/eluttman/liftoff-assignments/blob/master/Create%20Appointment.png - Create Appointment Page Wireframe
+https://github.com/eluttman/liftoff-assignments/blob/master/Register%20for%20new%20account.png - Register New Account Wireframe
+https://github.com/eluttman/liftoff-assignments/blob/master/User%20Profile%20Page.png - User Profile Landing Page Wireframe
+https://github.com/eluttman/liftoff-assignments/blob/master/login%20page.png - Login Page Wireframe
+
+
+
 ## Submission Instructions
 
 ### Overview
